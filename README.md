@@ -33,6 +33,7 @@ Uma vez que se trata de um aplicativo mobile é necessário a utilização de um
 
 ------------------------------------------------------------------
 Qualquer dúvida entre em contato por <a href="mailto:rodrigoleitesouzadev@gmail.com?">leandrorvieira22@yahoo.com</a>
+
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-rezende-vieira-23a212242/)](https://www.linkedin.com/in/leandro-rezende-vieira-23a212242/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandrorvieira22@yahoo.com)](mailto:leandrorvieira22@yahoo.com)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-0DA204?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521995925956)
